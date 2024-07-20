@@ -3,4 +3,7 @@ R: git init
 2 como identificar os arquivos modificados ?
 R: git status
 3 como adicionar os arquivos no meu pacote ?
-R: git add . 
+R: git add .
+4 como subir os arquivos pro servidor ?
+R: git commit -m "nome do arquivo" 
+ 
