@@ -4,6 +4,7 @@ R: git init
 R: git status
 3 como adicionar os arquivos no meu pacote ?
 R: git add .
-4 como subir os arquivos pro servidor ?
+4 como organizar os arquivos pra mandar pro servidor ?
 R: git commit -m "nome do arquivo" 
- 
+ 5 como eu envio os pacotes pro meu servidor ?
+ R: git push -u origin main 
