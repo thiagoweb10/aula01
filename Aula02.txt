@@ -1,2 +1,4 @@
 1 como iniciar o git ?
 R: git init 
+2 como identificar os arquivos modificados ?
+R: git status
