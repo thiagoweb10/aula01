@@ -1,0 +1,2 @@
+1 como iniciar o git ?
+R: git init 
